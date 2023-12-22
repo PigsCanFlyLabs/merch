@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Intersexual/Transgendered symbol by Gregory Maxwell. Copyright 2005. GFDL-1.2 only -->
+
+<svg
+   version="1.1"
+   width="250"
+   height="280"
+   id="svg4"
+   sodipodi:docname="Gendersign-sketch.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="2.7928571"
+     inkscape:cx="208.7468"
+     inkscape:cy="136.95652"
+     inkscape:window-width="1850"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     d="M 226,38 v 20 l 14,-8 v -42 h -42 l -8,14 h 20 l -37,37 a 79,79 0 0,0 -96,0 l -10,-10 14,-14 -12,-12 -14,14 -15,-15 h 20 l -8,-14 h -42 v 42 l 14,8 v -20 l 15,15 -14,14 12,12 14,-14 10,10 a 79,79 0 0,0 53,125 v 22 h -27 v 23 h 27 v 27 h 23 v -27 h 27 v -23 h -27 v -22 a 79,79 0 0,0 52,-125 zm -100,27 a 57,57 0 1,1 0,114 a 57,57 0 1,1 0,-114 z"
+     id="path2"
+     inkscape:export-filename="/home/holden/Downloads/Gendersign-sketch.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+</svg>
